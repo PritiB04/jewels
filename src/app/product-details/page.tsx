@@ -61,7 +61,5 @@ export default function ProductDetailsPage() {
       <Footer />
       <MobileBottomNav />
     </>
-
-    {/* testing done*/}
   );
 }
