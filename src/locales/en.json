@@ -1,0 +1,227 @@
+{
+    "navigation": {
+        "rings": "Rings",
+        "necklaces": "Necklaces",
+        "bracelets": "Bracelets",
+        "earrings": "Earrings",
+        "sale": "Sale",
+        "search": "Search",
+        "wishlist": "Wishlist",
+        "cart": "Cart",
+        "menu": "Menu",
+        "closeMenu": "Close menu",
+        "viewCart": "View Cart",
+        "freeShipping": "Free shipping on orders over $50"
+    },
+    "common": {
+        "shopCollection": "Shop Collection",
+        "exploretrends": "Explore Trends",
+        "viewAllCategories": "View All Categories",
+        "viewAllProducts": "View All Products",
+        "shopTheSale": "Shop the Sale",
+        "viewLookbook": "View Lookbook",
+        "contactSupport": "Contact our support team \u2192",
+        "verified": "Verified",
+        "styles": "styles"
+    },
+    "home": {
+        "hero": {
+            "eyebrow": "Summer Glow Collection 2026",
+            "headline1": "Wear Your",
+            "headline2": "Story",
+            "description": "Curated necklaces, rings, bracelets & earrings crafted for the generation that wears their identity. Minimal luxury, real you.",
+            "ratingLabel": "Happy customers",
+            "freeShipping": "Free shipping",
+            "freeShippingDesc": "Orders over $50",
+            "scrollLabel": "Scroll",
+            "newDrop": "New Drop",
+            "discountBadge": "40% OFF",
+            "discountCollection": "Summer Glow Collection"
+        },
+        "categories": {
+            "eyebrow": "Browse by Style",
+            "heading1": "Find Your",
+            "heading2": "Perfect",
+            "heading3": "Piece",
+            "viewAll": "View All Categories"
+        },
+        "trending": {
+            "eyebrow": "What Everyone's Wearing",
+            "heading1": "Trending",
+            "heading2": "Now",
+            "viewAll": "View All Products"
+        },
+        "sale": {
+            "eyebrow": "Limited Time Offer",
+            "heading1": "Summer Glow",
+            "heading2": "Flat 40% Off",
+            "description": "Our most-loved pieces from the Summer Glow Collection. Necklaces, rings, bracelets, and earrings \u2014 all at 40% off for a limited time.",
+            "stats": [
+                {
+                    "label": "Pieces",
+                    "value": "200+"
+                },
+                {
+                    "label": "Styles",
+                    "value": "4"
+                },
+                {
+                    "label": "Days Left",
+                    "value": "07"
+                }
+            ],
+            "products": [
+                {
+                    "name": "Celestine Necklace",
+                    "price": "$48",
+                    "original": "$80"
+                },
+                {
+                    "name": "Aurora Ring Set",
+                    "price": "$36",
+                    "original": "$60"
+                }
+            ]
+        },
+        "comparison": {
+            "eyebrow": "Why Crafters",
+            "heading1": "Why We're",
+            "heading2": "Different",
+            "description": "Luxury jewelry shouldn't require a luxury budget. Here's how Crafters delivers premium quality at prices that make sense for Gen Z.",
+            "colCategory": "Category",
+            "colCrafters": "Crafters",
+            "colOthers": "Other Brands",
+            "rows": [
+                {
+                    "category": "Price Point",
+                    "crafters": "$28\u2013$115 per piece",
+                    "competitors": "$150\u2013$500+ per piece"
+                },
+                {
+                    "category": "Material Quality",
+                    "crafters": "14k\u201318k gold fill, sterling silver, pearls",
+                    "competitors": "Often plated or lower-grade materials"
+                },
+                {
+                    "category": "Shipping Speed",
+                    "crafters": "2\u20135 day delivery",
+                    "competitors": "7\u201314 day delivery"
+                },
+                {
+                    "category": "Customer Rating",
+                    "crafters": "4.9/5 from 12,400+ verified reviews",
+                    "competitors": "Typically 4.2\u20134.5/5"
+                },
+                {
+                    "category": "Return Policy",
+                    "crafters": "30-day easy returns, free shipping",
+                    "competitors": "Often 14\u201330 days with restocking fees"
+                },
+                {
+                    "category": "Design Philosophy",
+                    "crafters": "Timeless minimal pieces built to last",
+                    "competitors": "Trend-driven fast fashion jewelry"
+                }
+            ],
+            "bottomStats": [
+                {
+                    "stat": "50\u201370%",
+                    "label": "Lower prices than luxury brands"
+                },
+                {
+                    "stat": "12,400+",
+                    "label": "Happy customers worldwide"
+                },
+                {
+                    "stat": "98%",
+                    "label": "Would recommend to a friend"
+                }
+            ]
+        },
+        "testimonials": {
+            "eyebrow": "Real Girls, Real Love",
+            "heading1": "What They're",
+            "heading2": "Saying",
+            "trustStats": [
+                {
+                    "value": "12,400+",
+                    "label": "Happy Customers"
+                },
+                {
+                    "value": "4.9/5",
+                    "label": "Average Rating"
+                },
+                {
+                    "value": "98%",
+                    "label": "Would Recommend"
+                },
+                {
+                    "value": "30-Day",
+                    "label": "Easy Returns"
+                }
+            ]
+        },
+        "faq": {
+            "eyebrow": "Got Questions?",
+            "heading1": "Frequently Asked",
+            "heading2": "Questions",
+            "description": "Everything you need to know about Crafters jewelry, materials, quality, and shipping.",
+            "stillHaveQuestions": "Still have questions? We're here to help.",
+            "items": [
+                {
+                    "question": "What is Crafters and who is it best for?",
+                    "answer": "Crafters is a minimal luxury jewelry brand designed for fashion-forward Gen Z girls who want high-quality, beautifully crafted pieces at accessible prices. We specialize in necklaces, rings, bracelets, and earrings that blend timeless elegance with contemporary style. Our pieces are perfect for anyone who values quality craftsmanship and wants jewelry that tells their story."
+                },
+                {
+                    "question": "What materials does Crafters use in its jewelry?",
+                    "answer": "We use premium materials including 18k rose gold vermeil, 14k gold fill, sterling silver, freshwater pearls, and cubic zirconia stones. Each piece is carefully crafted to ensure durability and longevity. Our materials are ethically sourced and designed to maintain their beauty with proper care, offering the luxury look without the luxury price tag."
+                },
+                {
+                    "question": "How does Crafters ensure quality and authenticity?",
+                    "answer": "Every piece undergoes rigorous quality control before shipping. We work with certified artisans who hand-set stones and finish each item to our exacting standards. Our 4.9/5 average rating from 12,400+ verified customers reflects our commitment to excellence. We also offer a 30-day easy return policy so you can shop with confidence."
+                },
+                {
+                    "question": "What is the pricing and do you offer discounts?",
+                    "answer": "Our pieces range from $28 to $115, with most bestsellers priced between $30\u2013$70. We regularly offer seasonal sales like our Summer Glow Collection at 40% off. Free shipping is available on orders over $50. We believe luxury jewelry should be accessible, which is why we price our pieces 50\u201370% below comparable luxury brands."
+                },
+                {
+                    "question": "What makes Crafters different from other jewelry brands?",
+                    "answer": "Crafters combines three key differentiators: minimal, timeless design that never goes out of style; premium materials at Gen Z\u2013friendly prices; and fast, reliable shipping with 2\u20135 day delivery. Unlike fast-fashion jewelry, our pieces are built to last. We also prioritize sustainable sourcing and ethical production, ensuring your jewelry purchase aligns with your values."
+                }
+            ]
+        }
+    },
+    "footer": {
+        "tagline": "Minimal luxury jewelry for the fashion-forward generation.",
+        "copyright": "\u00a9 2026 Crafters. All rights reserved.",
+        "links": [
+            {
+                "label": "Shop",
+                "href": "/"
+            },
+            {
+                "label": "About",
+                "href": "/"
+            },
+            {
+                "label": "Journal",
+                "href": "/"
+            },
+            {
+                "label": "Privacy",
+                "href": "/"
+            },
+            {
+                "label": "Terms",
+                "href": "/"
+            }
+        ]
+    },
+    "mobileNav": {
+        "home": "Home",
+        "shop": "Shop",
+        "wishlist": "Wishlist",
+        "cart": "Cart",
+        "profile": "Profile"
+    }
+}

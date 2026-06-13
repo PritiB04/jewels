@@ -1,0 +1,227 @@
+{
+    "navigation": {
+        "rings": "Anillos",
+        "necklaces": "Collares",
+        "bracelets": "Pulseras",
+        "earrings": "Aretes",
+        "sale": "Ofertas",
+        "search": "Buscar",
+        "wishlist": "Favoritos",
+        "cart": "Carrito",
+        "menu": "Men\u00fa",
+        "closeMenu": "Cerrar men\u00fa",
+        "viewCart": "Ver Carrito",
+        "freeShipping": "Env\u00edo gratis en pedidos mayores a $50"
+    },
+    "common": {
+        "shopCollection": "Ver Colecci\u00f3n",
+        "exploretrends": "Explorar Tendencias",
+        "viewAllCategories": "Ver Todas las Categor\u00edas",
+        "viewAllProducts": "Ver Todos los Productos",
+        "shopTheSale": "Comprar en Oferta",
+        "viewLookbook": "Ver Lookbook",
+        "contactSupport": "Contactar a nuestro equipo de soporte \u2192",
+        "verified": "Verificado",
+        "styles": "estilos"
+    },
+    "home": {
+        "hero": {
+            "eyebrow": "Colecci\u00f3n Summer Glow 2026",
+            "headline1": "Viste Tu",
+            "headline2": "Historia",
+            "description": "Collares, anillos, pulseras y aretes curados para la generaci\u00f3n que lleva su identidad puesta. Lujo minimal, t\u00fa de verdad.",
+            "ratingLabel": "Clientes felices",
+            "freeShipping": "Env\u00edo gratis",
+            "freeShippingDesc": "Pedidos mayores a $50",
+            "scrollLabel": "Desplazar",
+            "newDrop": "Nueva Llegada",
+            "discountBadge": "40% OFF",
+            "discountCollection": "Colecci\u00f3n Summer Glow"
+        },
+        "categories": {
+            "eyebrow": "Explorar por Estilo",
+            "heading1": "Encuentra Tu",
+            "heading2": "Pieza",
+            "heading3": "Perfecta",
+            "viewAll": "Ver Todas las Categor\u00edas"
+        },
+        "trending": {
+            "eyebrow": "Lo que Todos Usan",
+            "heading1": "Tendencias",
+            "heading2": "Ahora",
+            "viewAll": "Ver Todos los Productos"
+        },
+        "sale": {
+            "eyebrow": "Oferta por Tiempo Limitado",
+            "heading1": "Summer Glow",
+            "heading2": "40% de Descuento",
+            "description": "Nuestras piezas m\u00e1s amadas de la Colecci\u00f3n Summer Glow. Collares, anillos, pulseras y aretes \u2014 todo con 40% de descuento por tiempo limitado.",
+            "stats": [
+                {
+                    "label": "Piezas",
+                    "value": "200+"
+                },
+                {
+                    "label": "Estilos",
+                    "value": "4"
+                },
+                {
+                    "label": "D\u00edas Restantes",
+                    "value": "07"
+                }
+            ],
+            "products": [
+                {
+                    "name": "Collar Celestine",
+                    "price": "$48",
+                    "original": "$80"
+                },
+                {
+                    "name": "Set Anillos Aurora",
+                    "price": "$36",
+                    "original": "$60"
+                }
+            ]
+        },
+        "comparison": {
+            "eyebrow": "Por Qu\u00e9 Crafters",
+            "heading1": "Por Qu\u00e9 Somos",
+            "heading2": "Diferentes",
+            "description": "Las joyas de lujo no deber\u00edan requerir un presupuesto de lujo. As\u00ed es como Crafters ofrece calidad premium a precios que tienen sentido para la Generaci\u00f3n Z.",
+            "colCategory": "Categor\u00eda",
+            "colCrafters": "Crafters",
+            "colOthers": "Otras Marcas",
+            "rows": [
+                {
+                    "category": "Rango de Precio",
+                    "crafters": "$28\u2013$115 por pieza",
+                    "competitors": "$150\u2013$500+ por pieza"
+                },
+                {
+                    "category": "Calidad de Materiales",
+                    "crafters": "Oro laminado 14k\u201318k, plata esterlina, perlas",
+                    "competitors": "A menudo chapado o materiales de menor calidad"
+                },
+                {
+                    "category": "Velocidad de Env\u00edo",
+                    "crafters": "Entrega en 2\u20135 d\u00edas",
+                    "competitors": "Entrega en 7\u201314 d\u00edas"
+                },
+                {
+                    "category": "Calificaci\u00f3n de Clientes",
+                    "crafters": "4.9/5 de m\u00e1s de 12,400 rese\u00f1as verificadas",
+                    "competitors": "T\u00edpicamente 4.2\u20134.5/5"
+                },
+                {
+                    "category": "Pol\u00edtica de Devoluci\u00f3n",
+                    "crafters": "Devoluciones f\u00e1ciles en 30 d\u00edas, env\u00edo gratis",
+                    "competitors": "A menudo 14\u201330 d\u00edas con cargos de reposici\u00f3n"
+                },
+                {
+                    "category": "Filosof\u00eda de Dise\u00f1o",
+                    "crafters": "Piezas atemporales y minimalistas hechas para durar",
+                    "competitors": "Joyer\u00eda de moda r\u00e1pida impulsada por tendencias"
+                }
+            ],
+            "bottomStats": [
+                {
+                    "stat": "50\u201370%",
+                    "label": "Precios m\u00e1s bajos que las marcas de lujo"
+                },
+                {
+                    "stat": "12,400+",
+                    "label": "Clientes felices en todo el mundo"
+                },
+                {
+                    "stat": "98%",
+                    "label": "Lo recomendar\u00edan a un amigo"
+                }
+            ]
+        },
+        "testimonials": {
+            "eyebrow": "Chicas Reales, Amor Real",
+            "heading1": "Lo Que",
+            "heading2": "Dicen",
+            "trustStats": [
+                {
+                    "value": "12,400+",
+                    "label": "Clientes Felices"
+                },
+                {
+                    "value": "4.9/5",
+                    "label": "Calificaci\u00f3n Promedio"
+                },
+                {
+                    "value": "98%",
+                    "label": "Lo Recomendar\u00edan"
+                },
+                {
+                    "value": "30 D\u00edas",
+                    "label": "Devoluciones F\u00e1ciles"
+                }
+            ]
+        },
+        "faq": {
+            "eyebrow": "\u00bfTienes Preguntas?",
+            "heading1": "Preguntas",
+            "heading2": "Frecuentes",
+            "description": "Todo lo que necesitas saber sobre las joyas Crafters, materiales, calidad y env\u00edos.",
+            "stillHaveQuestions": "\u00bfA\u00fan tienes preguntas? Estamos aqu\u00ed para ayudarte.",
+            "items": [
+                {
+                    "question": "\u00bfQu\u00e9 es Crafters y para qui\u00e9n es ideal?",
+                    "answer": "Crafters es una marca de joyer\u00eda de lujo minimal dise\u00f1ada para chicas de la Generaci\u00f3n Z que desean piezas de alta calidad a precios accesibles. Nos especializamos en collares, anillos, pulseras y aretes que combinan elegancia atemporal con estilo contempor\u00e1neo."
+                },
+                {
+                    "question": "\u00bfQu\u00e9 materiales usa Crafters en sus joyas?",
+                    "answer": "Usamos materiales premium que incluyen vermeil de oro rosa 18k, laminado de oro 14k, plata esterlina, perlas de agua dulce y piedras de circonia c\u00fabica. Cada pieza est\u00e1 cuidadosamente elaborada para garantizar durabilidad y longevidad."
+                },
+                {
+                    "question": "\u00bfC\u00f3mo garantiza Crafters la calidad y autenticidad?",
+                    "answer": "Cada pieza pasa por un riguroso control de calidad antes del env\u00edo. Trabajamos con artesanos certificados que engastan las piedras a mano y terminan cada art\u00edculo seg\u00fan nuestros exigentes est\u00e1ndares. Nuestra calificaci\u00f3n promedio de 4.9/5 de m\u00e1s de 12,400 clientes verificados refleja nuestro compromiso con la excelencia."
+                },
+                {
+                    "question": "\u00bfCu\u00e1les son los precios y ofrecen descuentos?",
+                    "answer": "Nuestras piezas van de $28 a $115, con la mayor\u00eda de los m\u00e1s vendidos entre $30\u2013$70. Ofrecemos regularmente ventas estacionales como nuestra Colecci\u00f3n Summer Glow con 40% de descuento. El env\u00edo es gratuito en pedidos mayores a $50."
+                },
+                {
+                    "question": "\u00bfQu\u00e9 hace diferente a Crafters de otras marcas de joyer\u00eda?",
+                    "answer": "Crafters combina tres diferenciadores clave: dise\u00f1o minimal y atemporal que nunca pasa de moda; materiales premium a precios amigables para la Generaci\u00f3n Z; y env\u00edo r\u00e1pido y confiable en 2\u20135 d\u00edas. A diferencia de la joyer\u00eda de moda r\u00e1pida, nuestras piezas est\u00e1n hechas para durar."
+                }
+            ]
+        }
+    },
+    "footer": {
+        "tagline": "Joyer\u00eda de lujo minimal para la generaci\u00f3n vanguardista.",
+        "copyright": "\u00a9 2026 Crafters. Todos los derechos reservados.",
+        "links": [
+            {
+                "label": "Tienda",
+                "href": "/"
+            },
+            {
+                "label": "Nosotros",
+                "href": "/"
+            },
+            {
+                "label": "Revista",
+                "href": "/"
+            },
+            {
+                "label": "Privacidad",
+                "href": "/"
+            },
+            {
+                "label": "T\u00e9rminos",
+                "href": "/"
+            }
+        ]
+    },
+    "mobileNav": {
+        "home": "Inicio",
+        "shop": "Tienda",
+        "wishlist": "Favoritos",
+        "cart": "Carrito",
+        "profile": "Perfil"
+    }
+}
