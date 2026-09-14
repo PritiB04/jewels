@@ -154,8 +154,8 @@ export default function HeroSection() {
             <div className="relative w-full max-w-sm lg:max-w-none">
               <div className="clip-reveal active aspect-[3/4] rounded-[2.5rem] overflow-hidden shadow-[0_40px_120px_rgba(201,149,106,0.25)]">
                 <AppImage
-                  src="https://images.unsplash.com/photo-1731406322264-dac59f83828b"
-                  alt="Woman wearing layered gold necklaces and earrings, soft warm studio light, ivory background, editorial jewelry portrait"
+                  src="/assets/images/luxury_jewelry_hero.png"
+                  alt="Close-up editorial portrait of a woman wearing an exquisite diamond and gold statement necklace, dramatic chiaroscuro lighting, deep black background, luxury jewelry campaign"
                   width={600}
                   height={800}
                   priority
