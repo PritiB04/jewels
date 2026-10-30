@@ -29,7 +29,7 @@ export default function Footer() {
           <div className="flex flex-wrap gap-6 md:gap-8">
             {[
               { label: 'Shop', href: '/' },
-              { label: 'About', href: '/about' },
+              { label: 'About', href: '/' },
               { label: 'Journal', href: '/' },
               { label: 'Privacy', href: '/' },
               { label: 'Terms', href: '/' },

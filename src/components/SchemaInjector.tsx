@@ -9,33 +9,40 @@ interface SchemaInjectorProps {
   productSchema?: Record<string, any>;
 }
 
-function injectSchema(id: string, data: Record<string, any>) {
-  if (document.getElementById(id)) return;
-  const script = document.createElement('script');
-  script.type = 'application/ld+json';
-  script.id = id;
-  script.innerHTML = JSON.stringify(data);
-  document.head.appendChild(script);
-}
-
 export default function SchemaInjector({
   organizationSchema,
   webpageSchema,
   productSchema,
 }: SchemaInjectorProps) {
   useEffect(() => {
+    // Inject Organization schema if provided
     if (organizationSchema) {
-      injectSchema('schema-organization', organizationSchema);
+      const script = document.createElement('script');
+      script.type = 'application/ld+json';
+      script.id = 'schema-organization';
+      script.innerHTML = JSON.stringify(organizationSchema);
+      document.head.appendChild(script);
     }
 
+    // Inject WebPage schema if provided
     if (webpageSchema) {
-      injectSchema('schema-webpage', webpageSchema);
+      const script = document.createElement('script');
+      script.type = 'application/ld+json';
+      script.id = 'schema-webpage';
+      script.innerHTML = JSON.stringify(webpageSchema);
+      document.head.appendChild(script);
     }
 
+    // Inject Product schema if provided
     if (productSchema) {
-      injectSchema('schema-product', productSchema);
+      const script = document.createElement('script');
+      script.type = 'application/ld+json';
+      script.id = 'schema-product';
+      script.innerHTML = JSON.stringify(productSchema);
+      document.head.appendChild(script);
     }
 
+    // Inject FAQPage schema
     const faqSchema = {
       '@context': 'https://schema.org',
       '@type': 'FAQPage',
@@ -49,12 +56,17 @@ export default function SchemaInjector({
       })),
     };
 
-    injectSchema('schema-faq', faqSchema);
+    const faqScript = document.createElement('script');
+    faqScript.type = 'application/ld+json';
+    faqScript.id = 'schema-faq';
+    faqScript.innerHTML = JSON.stringify(faqSchema);
+    document.head.appendChild(faqScript);
 
     return () => {
-      ['schema-webpage', 'schema-product', 'schema-faq'].forEach((id) => {
-        document.getElementById(id)?.remove();
-      });
+      const scripts = document.querySelectorAll(
+        '#schema-organization, #schema-webpage, #schema-product, #schema-faq'
+      );
+      scripts.forEach((script) => script.remove());
     };
   }, [organizationSchema, webpageSchema, productSchema]);
 
